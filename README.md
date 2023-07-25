@@ -1,5 +1,11 @@
 # Dynamic_Programming_TroubleShooter
 
+Hello Coders </>
+
+My name is Parth Dwivedi
+
++ Leedcode ID : https://leetcode.com/parthdwivedy2706/
+
 Welcome to my GitHub repository, where I have curated a comprehensive collection of dynamic programming logics and practice questions in Java! 🚀
 
 As a passionate software developer and algorithm enthusiast, I've always been captivated by the power of dynamic programming to solve complex problems efficiently. In this repository, I aim to share my knowledge and experience in this fascinating field with fellow developers and learners.
